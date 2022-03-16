@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - Entry point
+ * main - Entry point
  *
  * Return: Always 0 (Success/correct)
  */
@@ -27,7 +27,5 @@ else
 {
 printf("Last digit of %i is %i and is less than 5 and not 0\n", n, n % 10);
 }
-
 return(0);
-
 }
