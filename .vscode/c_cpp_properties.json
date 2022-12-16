@@ -10,7 +10,9 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "intelliSenseMode": "windows-msvc-x64"
+            "intelliSenseMode": "windows-msvc-x64",
+            "cStandard": "gnu99",
+            "cppStandard": "gnu++98"
         }
     ],
     "version": 4
