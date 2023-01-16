@@ -27,6 +27,4 @@ File: 103-infinite_add.c is  a function that adds two numbers.
 
 File: 104-print_buffer.c is a function that prints a buffer.
 
-File:  _putchar.c is a function that replaces the standard library function putchar().
-
 File: main.h is the header file containing all the function prototypes.
